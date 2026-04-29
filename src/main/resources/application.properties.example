@@ -1,0 +1,11 @@
+# App
+spring.application.name=gamecoach
+
+# Riot API
+riot.api.key=YOUR_KEY_HERE
+riot.region=la1
+
+# Groq
+groq.api.key=YOUR_KEY_HERE
+groq.model=YOUR_MODEL_HERE
+groq.api.url=https:YOUR_URL_HERE
